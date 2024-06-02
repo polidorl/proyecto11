@@ -1,0 +1,4 @@
+
+Colocarse en el directorio donde se va a crear
+el proyecto.
+git init
